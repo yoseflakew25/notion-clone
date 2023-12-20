@@ -1,9 +1,18 @@
 # Fullstack Notion Clone
 
 Welcome to the Notion Clone repository! This project is a clone of the popular note-taking application Notion, built using Next.js and TypeScript. The repository contains all the source code and project files for the Notion Clone.
+
 ![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
 
-Key Features:
+### Screenshot:
+
+![screenshot1](https://github.com/yoseflakew25/Furnish-Now/blob/main/1.png)
+![screenshot2](https://github.com/yoseflakew25/Furnish-Now/blob/main/2.png)
+![screenshot3](https://github.com/yoseflakew25/Furnish-Now/blob/main/3.png)
+![screenshot4](https://github.com/yoseflakew25/Furnish-Now/blob/main/4.png)
+![screenshot5](https://github.com/yoseflakew25/Furnish-Now/blob/main/5.png)
+
+### Key Features:
 
 - Real-time database  🔗 
 - Notion-style editor 📝 
