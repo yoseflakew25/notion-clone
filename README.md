@@ -6,11 +6,16 @@ Welcome to the Notion Clone repository! This project is a clone of the popular n
 
 ### Screenshots:
 
-![screenshot1](https://github.com/yoseflakew25/Furnish-Now/blob/main/1.png)
-![screenshot2](https://github.com/yoseflakew25/Furnish-Now/blob/main/2.png)
-![screenshot3](https://github.com/yoseflakew25/Furnish-Now/blob/main/3.png)
-![screenshot4](https://github.com/yoseflakew25/Furnish-Now/blob/main/4.png)
-![screenshot5](https://github.com/yoseflakew25/Furnish-Now/blob/main/5.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/1.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/2.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/3.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/4.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/5.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/6.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/7.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/8.png)
+![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/9.png)
+
 
 ### Key Features:
 
