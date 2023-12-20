@@ -4,7 +4,7 @@ Welcome to the Notion Clone repository! This project is a clone of the popular n
 
 ![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
 
-### Screenshot:
+### Screenshots:
 
 ![screenshot1](https://github.com/yoseflakew25/Furnish-Now/blob/main/1.png)
 ![screenshot2](https://github.com/yoseflakew25/Furnish-Now/blob/main/2.png)
