@@ -16,6 +16,21 @@ Welcome to the Notion Clone repository! This project is a clone of the popular n
 ![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/8.png)
 ![screenshot1](https://github.com/yoseflakew25/notion-clone/blob/main/public/9.png)
 
+<h2>🚀 Demo</h2>
+
+[https://notion-clone-yosef-coder.vercel.app/](https://notion-clone-yosef-coder.vercel.app/)
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   react
+*   typescript
+*   tailwind
+*   nextjs
+*   clerk
+*   nextauth
+*   convex
 
 ### Key Features:
 
